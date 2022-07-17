@@ -1,6 +1,6 @@
 package bar
 
-import "bar"
+import "fmt"
 
 func Bar() {
 	fmt.Println("bar")
